@@ -1,0 +1,17 @@
+\acswitchoff 
+\noaddvspace 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Gantt Chart\relax }}{4}{figure.caption.6}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces System Block Diagram\relax }}{7}{figure.caption.8}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Architecture of Alexnet}}{9}{figure.caption.9}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Schematic diagram of SVM}}{11}{figure.caption.10}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Use Case Diagram of Brain Tumor Detector\relax }}{13}{figure.caption.11}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Incremental Model\relax }}{14}{figure.caption.12}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Comparision of confusion matrix\relax }}{15}{figure.caption.13}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Output Image\relax }}{16}{figure.caption.14}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Testing and Training Accuracy\relax }}{16}{figure.caption.15}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Testing and Training Loss\relax }}{17}{figure.caption.16}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Epochs with Early Stopping\relax }}{17}{figure.caption.17}%
